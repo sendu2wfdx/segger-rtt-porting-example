@@ -1,0 +1,26 @@
+# Build output
+build/
+cmake-build-*/
+out/
+
+# Toolchain and IDE output
+*.o
+*.obj
+*.a
+*.lib
+*.elf
+*.axf
+*.hex
+*.bin
+*.map
+*.d
+*.dep
+*.uvguix.*
+*.uvoptx
+*.uvprojx.user
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
